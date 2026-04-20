@@ -56,7 +56,7 @@ const courses: Course[] = [
       "Online Services (DigiLocker, BHIM)",
       "Government Portal Usage",
     ],
-    fee: "₹2,500",
+    fee: "₹3,500",
   },
   {
     id: "tally",
@@ -71,6 +71,7 @@ const courses: Course[] = [
       "Master India's most widely used accounting software. From basic bookkeeping to advanced GST filing, this course prepares you for accounting and finance roles in any business — small or large.",
     benefits: [
       "GST billing and return filing skills",
+      "Excel basic to Advance",
       "Inventory and payroll management",
       "Banking reconciliation in Tally",
       "Job-ready for accountant positions",
@@ -86,10 +87,10 @@ const courses: Course[] = [
       "Banking & Reconciliation",
       "MIS Reports & Audit",
     ],
-    fee: "₹3,000",
+    fee: "₹4,000",
   },
   {
-    id: "basic",
+    id: "Kid's Computer",
     icon: Monitor,
     title: "Basic Computer",
     subtitle: "Complete Digital Literacy Program",
@@ -116,10 +117,10 @@ const courses: Course[] = [
       "Email & Communication",
       "Printing & File Management",
     ],
-    fee: "₹2,000",
+    fee: "₹1,000",
   },
   {
-    id: "ai",
+    id: "Ai",
     icon: Brain,
     title: "AI Basics",
     subtitle: "Artificial Intelligence for Everyone",
@@ -146,7 +147,7 @@ const courses: Course[] = [
       "AI Ethics & Safety",
       "Career Paths in AI",
     ],
-    fee: "₹3,500",
+    fee: "₹Comming Soon",
   },
 ];
 
