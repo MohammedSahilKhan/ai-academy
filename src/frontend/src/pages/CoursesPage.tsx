@@ -90,9 +90,9 @@ const courses: Course[] = [
     fee: "₹4,000",
   },
   {
-    id: "Kid's Computer",
+    id: "basic",
     icon: Monitor,
-    title: "Basic Computer",
+    title: "Kid's Computer",
     subtitle: "Complete Digital Literacy Program",
     duration: "2 Months",
     level: "Absolute Beginner",
