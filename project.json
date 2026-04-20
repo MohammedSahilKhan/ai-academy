@@ -1,0 +1,23 @@
+{
+  "overview": "Modern, high-converting website for AI Academy — a computer training institute in Nimbahera, Rajasthan. Features 4 pages (Home, Courses, Gallery, About) with a blue/white design, sticky nav, floating WhatsApp button, and mobile-friendly layout designed to attract students and boost enrollments.",
+  "features": [
+    "Hero section with 'Learn Skills. Build Career.' headline and dual CTAs",
+    "Courses page with RSCIT, Tally, Basic Computer, and AI Basics course cards",
+    "Gallery/Vlog page with grid of class and activity placeholders",
+    "About page with founder profile, mission, and contact details",
+    "Sticky header with mobile hamburger menu",
+    "Floating WhatsApp and Call buttons",
+    "Student testimonials section",
+    "Smooth scrolling and SEO-friendly structure"
+  ],
+  "category": "education",
+  "tags": [
+    "education",
+    "computer-training",
+    "institute-website",
+    "india",
+    "courses",
+    "landing-page"
+  ],
+  "last_updated": "2026-04-20T03:13:51.457Z"
+}
