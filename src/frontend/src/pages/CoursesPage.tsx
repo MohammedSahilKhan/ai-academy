@@ -147,7 +147,7 @@ const courses: Course[] = [
       "AI Ethics & Safety",
       "Career Paths in AI",
     ],
-    fee: "₹3,000",
+    fee: "Comming Soon",
   },
 ];
 
