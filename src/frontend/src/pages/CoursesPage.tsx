@@ -71,7 +71,7 @@ const courses: Course[] = [
       "Master India's most widely used accounting software. From basic bookkeeping to advanced GST filing, this course prepares you for accounting and finance roles in any business — small or large.",
     benefits: [
       "GST billing and return filing skills",
-      "Excel basic to Advance",
+      "Excel basic to advance",
       "Inventory and payroll management",
       "Banking reconciliation in Tally",
       "Job-ready for accountant positions",
@@ -147,7 +147,7 @@ const courses: Course[] = [
       "AI Ethics & Safety",
       "Career Paths in AI",
     ],
-    fee: "₹0.00",
+    fee: "₹3,000",
   },
 ];
 
