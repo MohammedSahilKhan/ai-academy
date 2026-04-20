@@ -14,7 +14,7 @@ interface GalleryItem {
 const galleryItems: GalleryItem[] = [
   {
     id: 1,
-    src: "/assets/generated/gallery-lab.dim_800x500.jpg",
+    src: "/assets/generated/clipvideo1.mp4",
     alt: "Computer lab with students working",
     label: "Our Modern Computer Lab",
     category: "lab",
