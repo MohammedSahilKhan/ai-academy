@@ -33,12 +33,10 @@ export function Header() {
     >
       <div className="">
         <div className="">
-          <img src="/assets/generated/white_logo.png">
           {/* Logo */}
           <Link
             to="/"
-            className="flex items-center gap-2 group"
-            data-ocid=""
+             <img src="/assets/generated/white_logo.png">
           >
             
             <div className="w-9 h-9 rounded-lg gradient-primary flex items-center justify-center shadow-subtle group-hover:scale-105 transition-smooth">
