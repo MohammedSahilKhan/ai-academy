@@ -39,9 +39,10 @@ export function Header() {
             className="flex items-center gap-2 group"
             data-ocid=""
           >
-            <img src="/assets/generated/white_logo.png">
+            
             <div className="w-9 h-9 rounded-lg gradient-primary flex items-center justify-center shadow-subtle group-hover:scale-105 transition-smooth">
               <GraduationCap className="w-5 h-5 text-white" />
+              <img src="/assets/generated/white_logo.png">
             </div>
             <span className="font-display font-bold text-xl text-foreground tracking-tight">
               Ai Academy
