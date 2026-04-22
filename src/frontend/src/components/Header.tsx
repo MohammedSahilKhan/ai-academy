@@ -37,7 +37,7 @@ export function Header() {
           <Link
             to="/"
             className="flex items-center gap-2 group"
-            data-ocid="header.logo_link"
+            data-ocid=""
           >
             <div className="w-9 h-9 rounded-lg gradient-primary flex items-center justify-center shadow-subtle group-hover:scale-105 transition-smooth">
               <GraduationCap className="w-5 h-5 text-white" />
