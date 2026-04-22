@@ -36,9 +36,9 @@ export function Header() {
           {/* Logo */}
           <Link
             to="/"
-             <img src="/assets/generated/white_logo.png">
+             
           >
-            
+          <img src="/assets/generated/white_logo.png">  
             <div className="w-9 h-9 rounded-lg gradient-primary flex items-center justify-center shadow-subtle group-hover:scale-105 transition-smooth">
               <img src="/assets/generated/white_logo.png">
             </div>
